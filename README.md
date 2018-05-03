@@ -1,3 +1,3 @@
 ## Projet demo pour la formation CI
 
-Projet maven simple
+Projet maven simple modifié en ligne
